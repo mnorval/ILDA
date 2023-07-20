@@ -1,0 +1,11 @@
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\bin\Debug\Easy_Audio_Dac_Dll.exe
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\bin\Debug\Easy_Audio_Dac_Dll.pdb
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\Easy_Audio_Dac_Dll.exe
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\LaserProjector\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\Easy_Audio_Dac_Dll.pdb
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\Easy_Audio_Dac_Dll.exe
+C:\DOCUMENTS\PROGRAMMING & ELECTRONICS\C++  C#   C\C#\Code\Easy_Audio_Dac_Dll\Easy_Audio_Dac_Dll\obj\x86\Debug\Easy_Audio_Dac_Dll.pdb
